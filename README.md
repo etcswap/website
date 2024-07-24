@@ -1,1 +1,1 @@
-# Website for ETCSwap
+# Website for ETCSwap.org
