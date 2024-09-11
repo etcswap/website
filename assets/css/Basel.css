@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Basel';
+	src: url(../../assets/fonts/Basel-4e95575c1ac965bcae5e44d8889f2930.woff2) format('woff2'),
+	url(../../assets/fonts/Basel-8f288496bc85db33ca0dca627301bbc3.woff) format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
